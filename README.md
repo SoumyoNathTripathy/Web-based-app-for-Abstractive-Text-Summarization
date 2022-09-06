@@ -1,5 +1,8 @@
 # Web-based-app-for-Abstractive-Text-Summarization
-Text summarization is the problem of reducing the number of sentences and words of a document without changing its meaning. 
+Text summarization is the problem of reducing the number of sentences and words of a document without changing its meaning.. There are different
+techniques to extract information from raw text data and use it for a
+summarization model, overall they can be categorized as Extractive and
+Abstractive.
 # Our Model-Sequence to Sequence (often abbreviated to seq2seq) models is a
 special class of Recurrent Neural Network architectures that we
 typically use (but not restricted) to solve complex Language
