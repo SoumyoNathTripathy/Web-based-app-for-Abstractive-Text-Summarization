@@ -30,3 +30,4 @@ Seq2Seq algorithm to get the summary.
 
 
 # Author- Soumyo Nath Tripathy
+# Co-Author- Anushka Mitra
