@@ -29,5 +29,5 @@ end of the text.
 Seq2Seq algorithm to get the summary.
 
 
-# Team Lead- Soumyo Nath Tripathy
-# Co-Author- Anushka Mitra
+## Team Lead- Soumyo Nath Tripathy
+## Co-Author- Anushka Mitra
