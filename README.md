@@ -3,7 +3,7 @@ Text summarization is the problem of reducing the number of sentences and words 
 techniques to extract information from raw text data and use it for a
 summarization model, overall they can be categorized as Extractive and
 Abstractive.
-# Our Model-Sequence to Sequence (often abbreviated to seq2seq) models is a
+# Our Model-Hugging face Transformers models is a
 special class of Recurrent Neural Network architectures that we
 typically use (but not restricted) to solve complex Language
 problems like Machine Translation, Question Answering, creating
